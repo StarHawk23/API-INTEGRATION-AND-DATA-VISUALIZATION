@@ -33,3 +33,4 @@ THIS TASK MARKS AN IMPORTANT STEP IN UNDERSTANDING HOW DATA FLOWS FROM AN API IN
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/05381c01-1356-4b33-a893-4ddddc8352da)
 
+![Image](https://github.com/user-attachments/assets/41527181-21f0-486f-885d-3f7ebb347c22)
